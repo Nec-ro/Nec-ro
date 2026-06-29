@@ -1,5 +1,5 @@
 # 💫 About Me:
-19 y.o Comp. Sci student at Isfahan University of Technology<br>Know some things about C, C++, Java and Python<br>nothing more for now<br>
+20 y.o Comp. Sci student at Isfahan University of Technology<br>Know some things about C, C++, Java and Python<br>nothing more for now<br>
 
 
 ## 🌐 Socials:
